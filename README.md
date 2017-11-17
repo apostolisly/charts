@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fcharts.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fcharts?ref=badge_shield)
+
 <div align="center">
     <img src="https://github.com/frappe/design/blob/master/logos/frappe-charts-symbol.svg" height="128">
     <h2>Frappé Charts</h2>
@@ -87,3 +89,6 @@ This repository has been released under the [MIT License](LICENSE)
 Project maintained by [Frappe](https://frappe.io).
 Used in [ERPNext](https://erpnext.com). Read the [blog post](https://medium.com/@pratu16x7/so-we-decided-to-create-our-own-charts-a95cb5032c97).
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2Fcharts.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2Fcharts?ref=badge_large)
